@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DevBuild Lab 2 Number Analyzer Decision Maker/1.0.0": {
+        "runtime": {
+          "DevBuild Lab 2 Number Analyzer Decision Maker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevBuild Lab 2 Number Analyzer Decision Maker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
